@@ -16,10 +16,11 @@ The data provided here is released under the Open Data Commons Attribution Licen
 The scripts provided here are released under the MIT license
 (http://opensource.org/licenses/mit-license.php)
 
-
++++++++++++++++++++++++++++++++++
 Usage:
 
 (1) Download fMRI data
+
 First, download raw fMRI data from:
 
 http://brainliner.jp/data/brainliner/Human_Dream_Decoding
@@ -30,6 +31,7 @@ Because the raw fMRI data is very large (>30GB), if you want to skip the followi
 
 
 (2) fMRI data preprocessing
+
 To convert raw fMRI data to preprocessed data, change directory to the code/ and type:
 
 >> convertRawDatatoPreprocessedData
@@ -40,6 +42,7 @@ Because the preprocessing requires over 30 GB memory (and it takes about an hour
 
 
 (3) Perform stimulus-to-dream decoding anlaysis
+
 To perform decoding analyses, type:
 
 >> Perception2SleepDecoding_BATCH
