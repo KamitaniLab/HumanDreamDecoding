@@ -19,7 +19,7 @@ The scripts provided here are released under the MIT license
 
 Usage:
 
-1. Download fMRI data.
+(1) Download fMRI data.
 First, download raw fMRI data from:
 
 http://brainliner.jp/data/brainliner/Human_Dream_Decoding
@@ -29,7 +29,7 @@ Data for all three subjects and all sessions are required.
 Because the raw fMRI data is very large (>30GB), if you want to skip the following preprocessing step and start from the decoding analyses, you can download preprocessed data from the Supplementary File of the  above web page.
 
 
-2. fMRI data preprocessing.
+(2) fMRI data preprocessing.
 To convert raw fMRI data to preprocessed data, change directory to the code/ and type:
 
 >> convertRawDatatoPreprocessedData
@@ -39,7 +39,7 @@ The preprocessed data will be saved in data/preproc/ directory.
 Because the preprocessing requires over 30 GB memory (and it takes about an hour), it may be better to run this code on your cluster machine, not on your local PC.
 
 
-3. Perform stimulus-to-dream decoding anlaysis.
+(3) Perform stimulus-to-dream decoding anlaysis.
 To perform decoding analyses, type:
 
 >> Perception2SleepDecoding_BATCH
