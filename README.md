@@ -16,7 +16,7 @@ The data provided here is released under the Open Data Commons Attribution Licen
 The scripts provided here are released under the MIT license
 (http://opensource.org/licenses/mit-license.php)
 
-Usage+++++++++++++++++++++++++++++++++
+Usage ==========================================
 
 (1) Download fMRI data
 
@@ -48,5 +48,5 @@ To perform decoding analyses, type:
 
 This script performs the pair-wise decoding for all categories for all the subjects, and produces histograms of decoding accuracy for all the pairs (cf. Figure 3B in the original paper).
 
-
+==========================================
 
