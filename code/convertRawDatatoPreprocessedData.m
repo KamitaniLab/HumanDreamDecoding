@@ -73,7 +73,7 @@
 %   -match label order of sleep and perception data
 %
 % 
-%   Written by Tomoyasu Horikawa horikawa-t@atr.jp
+%   2015/09/07 Written by Tomoyasu Horikawa horikawa-t@atr.jp
 %
 %clear all
 %% initial settings

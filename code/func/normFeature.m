@@ -20,6 +20,7 @@ function [data normMean normScale] = normFeature(data,meanMode,scaleMode,normMea
 %  - mostly identical what normalize_feature.m in SLR toolbox does.
 %
 % 09/09/10 written by Yoichi Miyawaki (yoichi_m@atr.jp)
+% 2015/09/07 modified by Tomoyasu Horikawa (horikawa-t@atr.jp)
 
 if nargin < 3 || nargin > 5
 
@@ -65,8 +66,9 @@ if nargin < 4
 end
 
 
-data = repadd(data,-normMean);
-data = repmultiply(data,1./normScale);  
+data = data - repmat(normMean,size(data,1),1);
+data = data ./repmat(normScale,size(data,1),1);  
+
 
 
 % end

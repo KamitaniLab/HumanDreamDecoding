@@ -1,4 +1,5 @@
 % function Perception2SleepDecoding_BATCH
+% 2015/09/07 written by Tomoyasu Horikawa (horikawa-t@atr.jp)
 clear all
 % location of the downloaded data
 p.datdir = '../data/preproc/';

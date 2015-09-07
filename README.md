@@ -18,6 +18,7 @@ The scripts provided here are released under the MIT license
 
 
 Usage:
+
 1. Download fMRI data.
 First, download raw fMRI data from:
 
