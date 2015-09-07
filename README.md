@@ -16,9 +16,7 @@ The data provided here is released under the Open Data Commons Attribution Licen
 The scripts provided here are released under the MIT license
 (http://opensource.org/licenses/mit-license.php)
 
-+++++++++++++++++++++++++++++++++
-
-Usage:
+Usage+++++++++++++++++++++++++++++++++
 
 (1) Download fMRI data
 
