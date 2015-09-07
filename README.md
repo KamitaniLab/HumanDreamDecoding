@@ -23,18 +23,18 @@ First, download raw fMRI data from:
 
 http://brainliner.jp/data/brainliner/Human_Dream_Decoding
 
-and put them in ./science2013/data/raw/ directory.
+and put them in data/raw/ directory.
 Data for all three subjects and all sessions are required.
-Because the raw fMRI data is very large (>30GB), if you want to skip the following preprocessing step and start from the decoding analyses, you can download preprocessed data from the Supplementary Files of the  above web page.
+Because the raw fMRI data is very large (>30GB), if you want to skip the following preprocessing step and start from the decoding analyses, you can download preprocessed data from the Supplementary File of the  above web page.
 
 
 2. fMRI data preprocessing.
-To convert raw fMRI data to preprocessed data, type:
+To convert raw fMRI data to preprocessed data, change directory to the code/ and type:
 
 convertRawDatatoPreprocessedData
 
-in the ./science2013/code/ directory after changing the path to the ./science2013/ directory for your environment.
-The preprocessed data will be saved in ./science2013/data/preproc/ directory.
+in the MATLAB terminal.
+The preprocessed data will be saved in data/preproc/ directory.
 Because the preprocessing requires over 30 GB memory (and it takes about an hour), it may be better to run this code on your cluster machine, not on your local PC.
 
 

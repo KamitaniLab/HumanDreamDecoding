@@ -1,7 +1,5 @@
 % function Perception2SleepDecoding_BATCH
 clear all
-%% initial setting
-cd('/home/mu/project/open_data/science2013/code/')
 % location of the downloaded data
 p.datdir = '../data/preproc/';
 % add path to classifier and functions

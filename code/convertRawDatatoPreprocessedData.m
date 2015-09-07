@@ -77,8 +77,6 @@
 %
 %clear all
 %% initial settings
-% CHANGE PATH
-cd('/home/mu/project/open_data/science2013/code/')
 % add path to functions
 addpath('./func/');
 % location of the donwloaded data
