@@ -50,3 +50,6 @@ This script performs the pair-wise decoding for all categories for all the subje
 
 ==========================================
 
+Contact:
+
+e-mail, brainliner-admin@atr.jp
