@@ -31,7 +31,7 @@ Because the raw fMRI data is very large (>30GB), if you want to skip the followi
 2. fMRI data preprocessing.
 To convert raw fMRI data to preprocessed data, change directory to the code/ and type:
 
-convertRawDatatoPreprocessedData
+>> convertRawDatatoPreprocessedData
 
 in the MATLAB terminal.
 The preprocessed data will be saved in data/preproc/ directory.
@@ -41,7 +41,7 @@ Because the preprocessing requires over 30 GB memory (and it takes about an hour
 3. Perform stimulus-to-dream decoding anlaysis.
 To perform decoding analyses, type:
 
-Perception2SleepDecoding_BATCH
+>> Perception2SleepDecoding_BATCH
 
 This script performs the pair-wise decoding for all categories for all the subjects, and produces histograms of decoding accuracy for all the pairs (cf. Figure 3B in the original paper).
 
