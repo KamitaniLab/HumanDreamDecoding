@@ -17,6 +17,7 @@ The scripts provided here are released under the MIT license
 (http://opensource.org/licenses/mit-license.php)
 
 +++++++++++++++++++++++++++++++++
+
 Usage:
 
 (1) Download fMRI data
