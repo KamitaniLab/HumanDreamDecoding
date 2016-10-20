@@ -6,7 +6,7 @@ This work has been published in Science,
 
 Horikawa, T., Tamaki, M., Miyawaki, Y., & Kamitani, Y. "Neural decoding of visual imagery during sleep," Science 340, 639-642 (2013)
 
-http://www.ncbi.nlm.nih.gov/pubmed/23558170
+http://science.sciencemag.org/content/340/6132/639.long
 
 Copyright and License:
 
