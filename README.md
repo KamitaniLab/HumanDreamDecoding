@@ -1,5 +1,7 @@
 # HumanDreamDecoding
 
+<img src="https://raw.githubusercontent.com/ATR-DNI/figures/master/sleep.jpg" alt="image">
+
 This work has been published in Science,
 
 Horikawa, T., Tamaki, M., Miyawaki, Y., & Kamitani, Y. "Neural decoding of visual imagery during sleep," Science 340, 639-642 (2013)
