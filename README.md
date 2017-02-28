@@ -1,6 +1,6 @@
 # Human Dream Decoding
 
-![sleep.jpg](https://raw.githubusercontent.com/ATR-DNI/figures/master/sleep.jpg)
+![sleep.jpg](sleep.jpg)
 
 This work has been published in *Science*,
 
